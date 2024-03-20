@@ -6,6 +6,9 @@ python3 --version
 
 python3 -m venv <environment_name>
 
+#activar entorno virtual
+source <environment_name>/bin/activate
+
 #instalar los requirements
 
 pip install -r requirements.txt
